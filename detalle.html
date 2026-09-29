@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Detalle completo de una noticia de InfoClick.">
+  <title>Detalle de la noticia · InfoClick</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="index.html">InfoClick<span>.</span></a>
+      <nav class="main-nav" aria-label="Navegación principal">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="noticias.html">Noticias</a></li>
+          <li><a href="categorias.html">Categorías</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <a class="fav-indicator" href="favoritos.html" aria-label="Ver mis favoritos" title="Mis favoritos">★<span class="fav-count" style="display:none">0</span></a>
+        <button type="button" class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="principal">
+    <div class="container">
+      <article id="article" class="article" aria-live="polite">
+        <p class="results-info">Cargando noticia…</p>
+      </article>
+    </div>
+
+    <section id="related-section" class="section">
+      <div class="container">
+        <div class="section-head"><h2>Te puede interesar</h2></div>
+        <div id="related-grid" class="cards-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <a class="logo" href="index.html">InfoClick</a>
+          <p>Información clara y verificada, al minuto.</p>
+          <p class="footer-contact">redaccion@infoclick.com · +57 601 555 0199 · Bogotá, Colombia</p>
+        </div>
+        <nav class="footer-nav" aria-label="Navegación del pie de página">
+          <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="noticias.html">Noticias</a></li>
+            <li><a href="categorias.html">Categorías</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+          </ul>
+        </nav>
+      </div>
+      <p class="footer-bottom">© <span class="js-year">2026</span> InfoClick. Proyecto académico — Desarrollo de Front-end, Politécnico Grancolombiano.</p>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+          integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+          crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.7.1.min.js"><\/script>');</script>
+  <script src="js/store.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/pages/detalle.js"></script>
+</body>
+</html>

@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "titulo": "Congreso aprueba nueva ley de movilidad urbana sostenible",
+    "categoria": "actualidad",
+    "resumen": "La norma promueve el transporte público eléctrico, las ciclorrutas y la peatonalización de los centros históricos en las principales ciudades.",
+    "contenido": [
+      "El Congreso de la República aprobó en último debate la ley de movilidad urbana sostenible, una iniciativa que busca reducir las emisiones del transporte y mejorar la calidad de vida en las ciudades.",
+      "Entre sus puntos principales se encuentran la meta de electrificar el 40 % de la flota de transporte público antes de 2035, la ampliación de la red de ciclorrutas y la creación de zonas de bajas emisiones en los centros urbanos.",
+      "Los alcaldes tendrán un plazo de dieciocho meses para ajustar sus planes de movilidad a la nueva norma, que ahora pasa a sanción presidencial."
+    ],
+    "autor": "Redacción InfoClick",
+    "fecha": "2026-09-25T08:00:00",
+    "lecturaMin": 4,
+    "imagen": "img/noticia-1.svg",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "titulo": "Selección nacional clasifica a semifinales del torneo continental",
+    "categoria": "deportes",
+    "resumen": "Con un gol en el tiempo de reposición, el equipo aseguró su lugar entre los cuatro mejores del certamen.",
+    "contenido": [
+      "La selección nacional venció 2-1 a su rival en un partido cerrado que se definió en el tiempo de reposición, gracias a un cabezazo tras un tiro de esquina.",
+      "El director técnico destacó la disciplina táctica del grupo y la respuesta del equipo tras recibir el empate en el segundo tiempo.",
+      "La semifinal se disputará el próximo miércoles; la venta de boletería para los aficionados que viajen iniciará este lunes."
+    ],
+    "autor": "Laura Gómez",
+    "fecha": "2026-09-25T06:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-2.svg",
+    "destacado": true
+  },
+  {
+    "id": 3,
+    "titulo": "Avances en inteligencia artificial transforman la industria local de servicios",
+    "categoria": "tecnologia",
+    "resumen": "Empresas de distintos tamaños reportan mejoras en tiempos de respuesta y en la calidad de la atención al cliente.",
+    "contenido": [
+      "El sector de servicios de la región atraviesa una transformación acelerada impulsada por la adopción de herramientas de inteligencia artificial. Empresas de distintos tamaños reportan mejoras en tiempos de respuesta y en la calidad de la atención al cliente.",
+      "Según especialistas consultados, la clave está en integrar estas tecnologías de forma gradual, priorizando la capacitación del talento humano y la transparencia con los usuarios sobre el uso de sus datos.",
+      "El gremio empresarial anunció que impulsará un programa de acompañamiento para pequeñas y medianas empresas interesadas en adoptar estas soluciones durante el próximo año."
+    ],
+    "autor": "Redacción InfoClick",
+    "fecha": "2026-09-25T04:00:00",
+    "lecturaMin": 6,
+    "imagen": "img/noticia-3.svg",
+    "destacado": true
+  },
+  {
+    "id": 4,
+    "titulo": "Banco central mantiene tasas de interés para el próximo trimestre",
+    "categoria": "economia",
+    "resumen": "La junta directiva decidió de forma unánime conservar la tasa de referencia mientras evalúa el comportamiento de la inflación.",
+    "contenido": [
+      "La junta directiva del banco central decidió mantener inalterada la tasa de interés de referencia, en una decisión que el mercado ya había anticipado.",
+      "El gerente de la entidad explicó que la inflación continúa en descenso, pero aún se encuentra por encima de la meta, por lo que se requiere prudencia antes de iniciar un ciclo de recortes.",
+      "Analistas esperan que la primera reducción se produzca a comienzos del próximo año si se mantiene la tendencia de los precios."
+    ],
+    "autor": "Andrés Rojas",
+    "fecha": "2026-09-25T03:00:00",
+    "lecturaMin": 5,
+    "imagen": "img/noticia-4.svg",
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "titulo": "Nuevo parque metropolitano abrirá sus puertas este fin de semana",
+    "categoria": "actualidad",
+    "resumen": "El espacio cuenta con senderos ecológicos, zonas de juego inclusivas y un escenario al aire libre para eventos culturales.",
+    "contenido": [
+      "Tras tres años de obras, el nuevo parque metropolitano abrirá al público este sábado con una jornada de actividades gratuitas para toda la familia.",
+      "El parque tiene 25 hectáreas de zonas verdes, más de dos kilómetros de senderos ecológicos, zonas de juego inclusivas y un escenario al aire libre con capacidad para cinco mil personas.",
+      "La administración recomendó llegar en transporte público o bicicleta, ya que el parqueadero tendrá capacidad limitada durante el fin de semana de apertura."
+    ],
+    "autor": "María Fernanda Ruiz",
+    "fecha": "2026-09-24T23:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-5.svg",
+    "destacado": false
+  },
+  {
+    "id": 6,
+    "titulo": "Startups locales reciben inversión récord en ronda de financiación",
+    "categoria": "tecnologia",
+    "resumen": "Diez emprendimientos de base tecnológica captaron recursos de fondos nacionales e internacionales.",
+    "contenido": [
+      "Diez startups locales cerraron una ronda de financiación conjunta que supera los registros de años anteriores, con participación de fondos nacionales e internacionales.",
+      "Los emprendimientos beneficiados trabajan en áreas como tecnología financiera, agricultura de precisión, salud digital y logística.",
+      "Los fundadores coincidieron en que los recursos se destinarán principalmente a contratar talento y expandirse a otros países de la región."
+    ],
+    "autor": "Redacción InfoClick",
+    "fecha": "2026-09-24T21:00:00",
+    "lecturaMin": 4,
+    "imagen": "img/noticia-6.svg",
+    "destacado": false
+  },
+  {
+    "id": 7,
+    "titulo": "Equipo de ciclismo nacional se prepara para la vuelta internacional",
+    "categoria": "deportes",
+    "resumen": "Los corredores realizan una concentración en altura para afinar detalles antes de la competencia.",
+    "contenido": [
+      "El equipo nacional de ciclismo inició una concentración de tres semanas en altura como parte de su preparación para la vuelta internacional.",
+      "El cuerpo técnico confirmó una nómina de ocho corredores que combina experiencia en montaña con jóvenes talentos surgidos de las categorías juveniles.",
+      "La competencia tendrá 21 etapas y recorrerá más de 3.300 kilómetros, con cuatro llegadas en alto."
+    ],
+    "autor": "Laura Gómez",
+    "fecha": "2026-09-24T19:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-7.svg",
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "titulo": "Reforma tributaria genera debate entre gremios empresariales",
+    "categoria": "economia",
+    "resumen": "Los principales gremios presentaron observaciones al proyecto antes de su discusión en las comisiones económicas.",
+    "contenido": [
+      "El proyecto de reforma tributaria radicado por el Gobierno generó reacciones diversas entre los gremios empresariales, que presentaron sus observaciones a las comisiones económicas.",
+      "Mientras algunos sectores respaldan la simplificación del régimen para pequeñas empresas, otros advierten sobre el impacto de los nuevos impuestos en la inversión.",
+      "Las audiencias públicas sobre el proyecto se realizarán durante las próximas dos semanas."
+    ],
+    "autor": "Andrés Rojas",
+    "fecha": "2026-09-24T17:00:00",
+    "lecturaMin": 6,
+    "imagen": "img/noticia-8.svg",
+    "destacado": false
+  },
+  {
+    "id": 9,
+    "titulo": "Campaña de vacunación se extiende a zonas rurales del país",
+    "categoria": "actualidad",
+    "resumen": "Brigadas móviles recorrerán veredas y corregimientos para ampliar la cobertura del esquema regular.",
+    "contenido": [
+      "La campaña nacional de vacunación ampliará su alcance a zonas rurales mediante brigadas móviles que recorrerán veredas y corregimientos de difícil acceso.",
+      "Las autoridades de salud buscan completar los esquemas de vacunación infantil y aplicar refuerzos a adultos mayores.",
+      "Las jornadas se anunciarán con anticipación a través de emisoras comunitarias y juntas de acción comunal."
+    ],
+    "autor": "María Fernanda Ruiz",
+    "fecha": "2026-09-24T15:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-9.svg",
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "titulo": "Universidades lanzan programa gratuito de formación en programación",
+    "categoria": "tecnologia",
+    "resumen": "La iniciativa ofrece cursos virtuales de desarrollo web, análisis de datos y computación en la nube.",
+    "contenido": [
+      "Un grupo de universidades lanzó un programa gratuito de formación en programación dirigido a jóvenes y adultos que quieran iniciar una carrera en tecnología.",
+      "Los cursos son virtuales e incluyen rutas en desarrollo web front-end, análisis de datos y computación en la nube, con certificación al finalizar.",
+      "Las inscripciones estarán abiertas hasta final de mes y los cupos son limitados."
+    ],
+    "autor": "Redacción InfoClick",
+    "fecha": "2026-09-24T12:00:00",
+    "lecturaMin": 4,
+    "imagen": "img/noticia-10.svg",
+    "destacado": false
+  },
+  {
+    "id": 11,
+    "titulo": "Exportaciones de café registran su mejor trimestre en una década",
+    "categoria": "economia",
+    "resumen": "El aumento de la producción y los buenos precios internacionales impulsaron las ventas externas del grano.",
+    "contenido": [
+      "Las exportaciones de café alcanzaron su mejor resultado trimestral de la última década, impulsadas por una mayor producción y precios internacionales favorables.",
+      "Los gremios cafeteros destacaron el crecimiento de los cafés especiales, que ganan participación en mercados de Europa y Asia.",
+      "Para el cierre del año se espera mantener la tendencia, aunque el clima seguirá siendo un factor determinante."
+    ],
+    "autor": "Andrés Rojas",
+    "fecha": "2026-09-24T10:00:00",
+    "lecturaMin": 4,
+    "imagen": "img/noticia-11.svg",
+    "destacado": false
+  },
+  {
+    "id": 12,
+    "titulo": "Liga femenina de fútbol anuncia ampliación a 20 equipos",
+    "categoria": "deportes",
+    "resumen": "La próxima temporada contará con más clubes, más fechas y transmisión de todos los partidos.",
+    "contenido": [
+      "La liga femenina de fútbol anunció que la próxima temporada contará con 20 equipos, lo que representa la mayor ampliación desde su creación.",
+      "El nuevo formato incluye un torneo más largo y la transmisión de todos los partidos por televisión y plataformas digitales.",
+      "Jugadoras y dirigentes celebraron la decisión como un paso clave para la profesionalización del fútbol femenino."
+    ],
+    "autor": "Laura Gómez",
+    "fecha": "2026-09-24T08:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-12.svg",
+    "destacado": false
+  },
+  {
+    "id": 13,
+    "titulo": "Ciudad estrena sistema de alertas tempranas por lluvias",
+    "categoria": "actualidad",
+    "resumen": "Sensores en quebradas y ríos enviarán notificaciones a los celulares de los habitantes de zonas de riesgo.",
+    "contenido": [
+      "La ciudad puso en funcionamiento un sistema de alertas tempranas que monitorea en tiempo real el nivel de quebradas y ríos.",
+      "Cuando los sensores detecten un aumento súbito del caudal, los habitantes de las zonas de riesgo recibirán una notificación en su celular.",
+      "La administración invitó a la ciudadanía a registrarse en la plataforma para recibir las alertas."
+    ],
+    "autor": "María Fernanda Ruiz",
+    "fecha": "2026-09-23T20:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-13.svg",
+    "destacado": false
+  },
+  {
+    "id": 14,
+    "titulo": "Nueva ley de protección de datos exige mayor transparencia a las apps",
+    "categoria": "tecnologia",
+    "resumen": "Las aplicaciones deberán explicar con lenguaje claro qué datos recopilan y con qué fin.",
+    "contenido": [
+      "La nueva regulación de protección de datos personales obliga a las aplicaciones móviles y sitios web a informar con lenguaje claro qué información recopilan y para qué la usan.",
+      "Las empresas tendrán un año para adaptar sus políticas y mecanismos de consentimiento.",
+      "Expertos consideran que la norma fortalece los derechos de los usuarios y acerca al país a estándares internacionales."
+    ],
+    "autor": "Redacción InfoClick",
+    "fecha": "2026-09-23T16:00:00",
+    "lecturaMin": 5,
+    "imagen": "img/noticia-14.svg",
+    "destacado": false
+  },
+  {
+    "id": 15,
+    "titulo": "Comercio electrónico crece impulsado por pagos digitales",
+    "categoria": "economia",
+    "resumen": "Las compras en línea aumentaron gracias a la adopción de billeteras digitales y transferencias inmediatas.",
+    "contenido": [
+      "El comercio electrónico registró un crecimiento significativo durante el último año, impulsado por la adopción de billeteras digitales y sistemas de transferencias inmediatas.",
+      "Las categorías con mayor crecimiento fueron tecnología, moda y productos para el hogar.",
+      "Los comerciantes señalan que la confianza del consumidor y la logística de entrega siguen siendo los principales retos."
+    ],
+    "autor": "Andrés Rojas",
+    "fecha": "2026-09-23T12:00:00",
+    "lecturaMin": 4,
+    "imagen": "img/noticia-15.svg",
+    "destacado": false
+  },
+  {
+    "id": 16,
+    "titulo": "Atleta nacional bate récord suramericano en 400 metros",
+    "categoria": "deportes",
+    "resumen": "La velocista marcó un nuevo registro continental durante el campeonato realizado en Medellín.",
+    "contenido": [
+      "La velocista nacional estableció un nuevo récord suramericano en los 400 metros planos durante el campeonato disputado en Medellín.",
+      "Con esta marca, la atleta se posiciona entre las mejores del mundo en la temporada y asegura su clasificación al próximo campeonato mundial.",
+      "Su entrenador destacó la constancia del proceso y el apoyo de las ligas regionales."
+    ],
+    "autor": "Laura Gómez",
+    "fecha": "2026-09-22T18:00:00",
+    "lecturaMin": 3,
+    "imagen": "img/noticia-16.svg",
+    "destacado": false
+  }
+]

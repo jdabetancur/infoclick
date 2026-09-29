@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portal de noticias InfoClick: actualidad, tecnología, economía y deportes.">
+  <title>InfoClick · Noticias que importan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="logo" href="index.html">InfoClick<span>.</span></a>
+      <nav class="main-nav" aria-label="Navegación principal">
+        <ul>
+          <li><a href="index.html" aria-current="page">Inicio</a></li>
+          <li><a href="noticias.html">Noticias</a></li>
+          <li><a href="categorias.html">Categorías</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <a class="fav-indicator" href="favoritos.html" aria-label="Ver mis favoritos" title="Mis favoritos">★<span class="fav-count" style="display:none">0</span></a>
+        <button type="button" class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="principal">
+    <section class="hero" aria-roledescription="carrusel" aria-label="Noticias destacadas">
+      <div class="container">
+        <div id="hero-slider">
+          <div class="hero-slide">
+            <div>
+              <span class="badge">Destacado</span>
+              <h1>Las noticias que importan, explicadas con claridad</h1>
+              <p>Cobertura verificada de actualidad, tecnología, economía y deportes — actualizada minuto a minuto.</p>
+              <a class="btn btn-primary" href="noticias.html">Ver últimas noticias</a>
+            </div>
+            <div class="hero-media"></div>
+          </div>
+        </div>
+        <div id="hero-dots" class="slider-dots" role="tablist" aria-label="Seleccionar noticia destacada"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Noticias destacadas</h2>
+          <a class="link-more" href="noticias.html">Ver todas →</a>
+        </div>
+        <div id="featured-grid" class="cards-grid" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="por-que">
+      <div class="container">
+        <div class="section-head"><h2 id="por-que">¿Por qué leer InfoClick?</h2></div>
+        <div class="info-grid">
+          <article class="info-item">
+            <div class="info-icon" aria-hidden="true">✔</div>
+            <h3>Información verificada</h3>
+            <p>Cada publicación pasa por un proceso de contraste de fuentes antes de llegar a ti.</p>
+          </article>
+          <article class="info-item">
+            <div class="info-icon" aria-hidden="true">★</div>
+            <h3>Guarda lo que te interesa</h3>
+            <p>Marca noticias como favoritas y encuéntralas después, incluso si cierras el navegador.</p>
+          </article>
+          <article class="info-item">
+            <div class="info-icon" aria-hidden="true">✉</div>
+            <h3>Participa</h3>
+            <p>¿Tienes una historia o encontraste un error? Escríbele directamente a la redacción.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="testimonios" style="padding-top:0">
+      <div class="container">
+        <div class="section-head"><h2 id="testimonios">Lo que dicen nuestros lectores</h2></div>
+        <div class="info-grid">
+          <figure class="testimonial">
+            <blockquote>“Me gusta que los resúmenes van directo al punto. Leo lo importante en cinco minutos.”</blockquote>
+            <figcaption><cite>Lectora de Medellín</cite></figcaption>
+          </figure>
+          <figure class="testimonial">
+            <blockquote>“La sección de favoritos me sirve para guardar las noticias de economía y leerlas con calma.”</blockquote>
+            <figcaption><cite>Lector de Bogotá</cite></figcaption>
+          </figure>
+          <figure class="testimonial">
+            <blockquote>“Envié una corrección por el formulario y la actualizaron el mismo día.”</blockquote>
+            <figcaption><cite>Lectora de Cali</cite></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" style="padding-top:0">
+      <div class="container">
+        <div class="cta-band">
+          <div>
+            <h2>¿Tienes una historia que contar?</h2>
+            <p>Explora nuestras categorías o escríbele a la redacción de InfoClick.</p>
+          </div>
+          <div class="hero-actions">
+            <a class="btn btn-light" href="categorias.html">Explorar categorías</a>
+            <a class="btn btn-ghost-light" href="contacto.html">Contactar</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <a class="logo" href="index.html">InfoClick</a>
+          <p>Información clara y verificada, al minuto.</p>
+          <p class="footer-contact">redaccion@infoclick.com · +57 601 555 0199 · Bogotá, Colombia</p>
+        </div>
+        <nav class="footer-nav" aria-label="Navegación del pie de página">
+          <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="noticias.html">Noticias</a></li>
+            <li><a href="categorias.html">Categorías</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+          </ul>
+        </nav>
+      </div>
+      <p class="footer-bottom">© <span class="js-year">2026</span> InfoClick. Proyecto académico — Desarrollo de Front-end, Politécnico Grancolombiano.</p>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+          integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+          crossorigin="anonymous"></script>
+
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.7.1.min.js"><\/script>');</script>
+  <script src="js/store.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/pages/home.js"></script>
+</body>
+</html>
